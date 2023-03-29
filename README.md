@@ -1,4 +1,4 @@
-# Surname-Homeworks
+# OOP-Homeworks
 Робота з GitHub
 1. DownLoad Git for Windows https://gitforwindows.org/
 2. Open Git Bash
